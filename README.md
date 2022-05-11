@@ -24,7 +24,8 @@
 
 
 ## Menú Principal :
-![Screenshot_20210823-191253_Termux](https://user-images.githubusercontent.com/81049859/130531058-57f6270d-40d0-4d24-9335-ea9c0be599a3.png)
+![Screenshot_20220511-091737_Termux](https://user-images.githubusercontent.com/81049859/167860828-d2c6de6d-e559-4a5f-a856-2ee23b25be6d.png)
+
 
 
 ## SpotifyCj7 :
