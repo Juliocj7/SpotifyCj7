@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20230517_195929_Termux](https://github.com/Juliocj7/SpotifyCj7/assets/81049859/ad9a2b1d-835f-4e70-83cb-fa0075c8c3a5)
+![1000328342](https://github.com/Juliocj7/SpotifyCj7/assets/81049859/1f16dd67-9681-4e19-94b5-4563dea3fa1e)
 
 ## SpotifyCj7 :
 * **Descarga música** de Spotify, en la mejor calidad, ilimitadamente.
