@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000328342](https://github.com/Juliocj7/SpotifyCj7/assets/81049859/1f16dd67-9681-4e19-94b5-4563dea3fa1e)
 
 ## SpotifyCj7 :
-* **Descarga música** de Spotify, en la mejor calidad, ilimitadamente.
+* Descarga **música** ilimitada de Spotify en la mejor calidad.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -54,17 +54,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/SpotifyCj7 `
-
-* ` cd SpotifyCj7 `
-
-* ` chmod +x * `
-
-* ` ./SpotifyCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/SpotifyCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd SpotifyCj7 && chmod +x * && ./SpotifyCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
