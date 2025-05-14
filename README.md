@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328342](https://github.com/Juliocj7/SpotifyCj7/assets/81049859/1f16dd67-9681-4e19-94b5-4563dea3fa1e)
+[![1000328342](https://github.com/user-attachments/assets/21c09fae-9fe6-4018-b3db-5ec3b200c3e5)](#---)
 
 ## SpotifyCj7 :
 * Descarga **música** ilimitada de Spotify en la mejor calidad.
